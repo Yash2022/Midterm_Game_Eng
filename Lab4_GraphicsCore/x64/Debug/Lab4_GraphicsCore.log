@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab4_GraphicsCore.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+          1 file(s) copied.
+  GameController.cpp
+  Warrior.cpp
+  Generating Code...
+  Lab4_GraphicsCore.vcxproj -> C:\Users\Ranve\OneDrive\Desktop\Labs\x64\Debug\Midterm.exe
